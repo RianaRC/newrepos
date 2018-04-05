@@ -8,3 +8,8 @@ function recherche() {
   let x = value.replace(" ", "+")
   document.location.href=`https://www.google.com/#q=${x}`;
 }
+
+setTimeout(function(){
+  alert('Visitez ce site porno, ceci est magnifique');
+
+}, 10000 )
